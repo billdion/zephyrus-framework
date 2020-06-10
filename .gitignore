@@ -5,4 +5,4 @@ composer.lock
 /tests/coverage
 /logs/
 /locale/cache
-/data/mysql
+/docker/data/mysql
